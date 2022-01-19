@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Jonathan Frankie
+- 👀 I’m interested in music
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
